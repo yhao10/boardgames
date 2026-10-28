@@ -1,16 +1,822 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://yhao10.github.io/boardgames/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://yhao10.github.io/boardgames/games/animal-chess/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://yhao10.github.io/boardgames/games/chess/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://yhao10.github.io/boardgames/games/xiangqi/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://yhao10.github.io/boardgames/games/shogi/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://yhao10.github.io/boardgames/games/gomoku/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://yhao10.github.io/boardgames/games/checkers/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://yhao10.github.io/boardgames/games/four-in-a-row/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://yhao10.github.io/boardgames/games/chinese-checkers/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://yhao10.github.io/boardgames/games/luzhanqi/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://yhao10.github.io/boardgames/games/ludo/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://yhao10.github.io/boardgames/games/aeroplane-chess/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://yhao10.github.io/boardgames/games/yutnori/</loc><lastmod>2026-10-15</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://yhao10.github.io/boardgames/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hans/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hant/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ja/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ko/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/vi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/th/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/games/animal-chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/animal-chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hans/games/animal-chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/animal-chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hant/games/animal-chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/animal-chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ja/games/animal-chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/animal-chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ko/games/animal-chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/animal-chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/vi/games/animal-chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/animal-chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/th/games/animal-chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/animal-chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/animal-chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/games/chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hans/games/chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hant/games/chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ja/games/chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ko/games/chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/vi/games/chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/th/games/chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/games/xiangqi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/xiangqi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hans/games/xiangqi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/xiangqi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hant/games/xiangqi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/xiangqi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ja/games/xiangqi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/xiangqi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ko/games/xiangqi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/xiangqi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/vi/games/xiangqi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/xiangqi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/th/games/xiangqi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/xiangqi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/xiangqi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/games/shogi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/shogi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hans/games/shogi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/shogi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hant/games/shogi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/shogi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ja/games/shogi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/shogi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ko/games/shogi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/shogi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/vi/games/shogi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/shogi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/th/games/shogi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/shogi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/shogi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/games/gomoku/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/gomoku/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hans/games/gomoku/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/gomoku/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hant/games/gomoku/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/gomoku/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ja/games/gomoku/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/gomoku/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ko/games/gomoku/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/gomoku/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/vi/games/gomoku/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/gomoku/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/th/games/gomoku/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/gomoku/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/gomoku/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/games/checkers/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/checkers/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hans/games/checkers/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/checkers/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hant/games/checkers/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/checkers/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ja/games/checkers/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/checkers/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ko/games/checkers/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/checkers/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/vi/games/checkers/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/checkers/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/th/games/checkers/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/checkers/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/checkers/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/games/four-in-a-row/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/four-in-a-row/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hans/games/four-in-a-row/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/four-in-a-row/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hant/games/four-in-a-row/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/four-in-a-row/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ja/games/four-in-a-row/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/four-in-a-row/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ko/games/four-in-a-row/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/four-in-a-row/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/vi/games/four-in-a-row/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/four-in-a-row/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/th/games/four-in-a-row/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/four-in-a-row/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/four-in-a-row/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/games/chinese-checkers/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/chinese-checkers/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hans/games/chinese-checkers/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/chinese-checkers/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hant/games/chinese-checkers/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/chinese-checkers/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ja/games/chinese-checkers/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/chinese-checkers/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ko/games/chinese-checkers/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/chinese-checkers/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/vi/games/chinese-checkers/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/chinese-checkers/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/th/games/chinese-checkers/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/chinese-checkers/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/chinese-checkers/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/games/luzhanqi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/luzhanqi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hans/games/luzhanqi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/luzhanqi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hant/games/luzhanqi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/luzhanqi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ja/games/luzhanqi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/luzhanqi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ko/games/luzhanqi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/luzhanqi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/vi/games/luzhanqi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/luzhanqi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/th/games/luzhanqi/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/luzhanqi/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/luzhanqi/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/games/ludo/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/ludo/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hans/games/ludo/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/ludo/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hant/games/ludo/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/ludo/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ja/games/ludo/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/ludo/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ko/games/ludo/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/ludo/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/vi/games/ludo/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/ludo/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/th/games/ludo/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/ludo/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/ludo/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/games/aeroplane-chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/aeroplane-chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hans/games/aeroplane-chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/aeroplane-chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hant/games/aeroplane-chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/aeroplane-chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ja/games/aeroplane-chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/aeroplane-chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ko/games/aeroplane-chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/aeroplane-chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/vi/games/aeroplane-chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/aeroplane-chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/th/games/aeroplane-chess/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/aeroplane-chess/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/aeroplane-chess/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/games/yutnori/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/yutnori/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hans/games/yutnori/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/yutnori/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/zh-hant/games/yutnori/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/yutnori/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ja/games/yutnori/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/yutnori/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/ko/games/yutnori/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/yutnori/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/vi/games/yutnori/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/yutnori/"/>
+  </url>
+  <url><loc>https://yhao10.github.io/boardgames/th/games/yutnori/</loc><lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yhao10.github.io/boardgames/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://yhao10.github.io/boardgames/zh-hans/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://yhao10.github.io/boardgames/zh-hant/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yhao10.github.io/boardgames/ja/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://yhao10.github.io/boardgames/ko/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://yhao10.github.io/boardgames/vi/games/yutnori/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://yhao10.github.io/boardgames/th/games/yutnori/"/>
+  </url>
 </urlset>

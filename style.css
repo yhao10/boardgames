@@ -43,6 +43,16 @@ a:hover { color: var(--cream); }
 .top nav a { color: var(--muted); text-decoration: none; }
 .top nav a:hover { color: var(--cream); }
 
+/* ---- language menu */
+.lang { position: relative; flex: none; }
+.lang summary { list-style: none; cursor: pointer; display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: 15px; padding: 6px 10px; border: 1px solid var(--line); border-radius: 999px; }
+.lang summary::-webkit-details-marker { display: none; }
+.lang summary:hover, .lang[open] summary { color: var(--cream); border-color: var(--gold); }
+.lang ul { position: absolute; right: 0; top: calc(100% + 8px); margin: 0; padding: 6px; list-style: none; background: var(--bg-2); border: 1px solid var(--line); border-radius: 12px; box-shadow: 0 18px 40px rgba(0, 0, 0, .4); min-width: 150px; }
+.lang li a { display: block; padding: 6px 12px; border-radius: 8px; color: var(--text); text-decoration: none; white-space: nowrap; }
+.lang li a:hover { background: rgba(235, 171, 57, .14); color: var(--cream); }
+.lang li a[aria-current] { color: var(--gold); font-weight: 600; }
+
 /* ---- hero */
 .hero { padding: 56px 0 40px; }
 .hero .wrap { display: grid; gap: 40px; align-items: center; }
@@ -116,6 +126,23 @@ h3 { color: var(--cream); font-size: 20px; margin: 0 0 8px; }
 .more a:hover { background: rgba(23, 60, 50, .7); color: var(--cream); }
 .more img { width: 72px; height: 72px; }
 
+/* ---- detailed rules */
+.detail-link { margin: 14px 0 0; font-weight: 600; }
+.detail { max-width: 820px; }
+.detail h3 { margin-top: 32px; }
+.detail p { margin: 0 0 12px; }
+.diagram { margin: 18px 0 22px; max-width: 520px; background: var(--cream); border-radius: var(--radius); padding: 14px; }
+.diagram svg { display: block; width: 100%; height: auto; }
+.diagram figcaption { color: #4c5e52; font-size: 15px; line-height: 1.55; margin-top: 10px; }
+.legend { list-style: none; margin: 0 0 8px; padding: 0; display: grid; gap: 6px 18px; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
+.legend li { display: flex; align-items: center; gap: 10px; color: var(--muted); font-size: 15px; }
+.legend svg { flex: none; background: var(--cream); border-radius: 6px; }
+.table-wrap { overflow-x: auto; margin: 12px 0 8px; }
+.detail table { border-collapse: collapse; width: 100%; font-size: 15px; }
+.detail th, .detail td { text-align: left; padding: 8px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.detail th { color: var(--cream); font-weight: 600; }
+.detail td { color: var(--text); }
+
 /* ---- cta + footer */
 .cta { text-align: center; }
 .cta .badge img { margin: 0 auto; }
@@ -123,9 +150,19 @@ footer { border-top: 1px solid var(--line); padding: 32px 0 48px; color: var(--m
 footer .wrap { display: flex; flex-wrap: wrap; gap: 8px 24px; justify-content: space-between; }
 footer p { margin: 0; }
 
+/* ---- per-language type: CJK glyphs differ by locale, and Georgia has no CJK, Thai or full Vietnamese */
+html:lang(zh-Hans) body { font-family: system-ui, -apple-system, "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; }
+html:lang(zh-Hant) body { font-family: system-ui, -apple-system, "PingFang TC", "Noto Sans CJK TC", "Microsoft JhengHei", sans-serif; }
+html:lang(ja) body { font-family: system-ui, -apple-system, "Hiragino Sans", "Noto Sans CJK JP", "Yu Gothic", "Meiryo", sans-serif; }
+html:lang(ko) body { font-family: system-ui, -apple-system, "Apple SD Gothic Neo", "Noto Sans KR", "Noto Sans CJK KR", "Malgun Gothic", sans-serif; }
+html:lang(th) body { font-family: system-ui, -apple-system, "Noto Sans Thai", "Leelawadee UI", "Thonburi", sans-serif; line-height: 1.8; }
+html:not(:lang(en)) h1, html:not(:lang(en)) h2 { font-family: inherit; font-weight: 700; letter-spacing: 0; }
+html:not(:lang(en)) .eyebrow { text-transform: none; letter-spacing: .02em; }
+
 @media (max-width: 560px) {
   body { font-size: 16px; }
   .top nav { display: none; }
+  .lang summary span { display: none; }
   .hero { padding-top: 32px; }
   .lead { font-size: 17px; }
   .games { grid-template-columns: repeat(2, 1fr); }
